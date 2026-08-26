@@ -1,0 +1,23 @@
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# infra-check output files
+*.csv
+*.json
+
+# Editor / OS cruft
+.DS_Store
+.idea/
+.vscode/
